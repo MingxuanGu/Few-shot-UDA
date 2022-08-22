@@ -10,7 +10,7 @@
 
 ## Dataset
 * Download the Multi-sequence Cardiac MR Segmentation Challenge (MS-CMRSeg 2019) dataset: 
-      https://zmiclab.github.io/projects/mscmrseg19/
+      http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/
 ## Download pretrained RAIN
 * Download [vgg encoder](https://drive.google.com/file/d/1gi252ul37wIVXKbztrPV-KImLyOTeFHZ/view?usp=sharing), [fc encoder](https://drive.google.com/file/d/1PXHne-CrHLuev8PHGPR_EXHtHfaTirl1/view?usp=sharing), [fc decoder](https://drive.google.com/file/d/1QVaKtqUnbklE0L123TrI4Fzn4d-iUf-S/view?usp=sharing), [decoder](https://drive.google.com/file/d/18i02LQxuoOUi-svJ5iDHhl1wah6FbZSl/view?usp=sharing) and put them under ```pretrained/```.
  ## Installation
