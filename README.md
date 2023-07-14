@@ -11,6 +11,12 @@
 ## Dataset
 * Download the Multi-sequence Cardiac MR Segmentation Challenge (MS-CMRSeg 2019) dataset: 
       http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/
+* Data structure:
+  - trainA/trainAmask: bSSFP/T2 sample 6-45
+  - testA/testAmask: bSSFP/T2 sample 1-5
+  - trainB/trainBmask: LGE sample 6-45
+  - testB/testBmask: LGE sample 1-5
+  
 ## Download pretrained RAIN
 * Download [vgg encoder](https://drive.google.com/file/d/1gi252ul37wIVXKbztrPV-KImLyOTeFHZ/view?usp=sharing), [fc encoder](https://drive.google.com/file/d/1PXHne-CrHLuev8PHGPR_EXHtHfaTirl1/view?usp=sharing), [fc decoder](https://drive.google.com/file/d/1QVaKtqUnbklE0L123TrI4Fzn4d-iUf-S/view?usp=sharing), [decoder](https://drive.google.com/file/d/18i02LQxuoOUi-svJ5iDHhl1wah6FbZSl/view?usp=sharing) and put them under ```pretrained/```.
  ## Installation
