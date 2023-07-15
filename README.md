@@ -10,7 +10,7 @@
 
 ## Dataset
 * Download the Multi-sequence Cardiac MR Segmentation Challenge (MS-CMRSeg 2019) dataset: 
-      http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/
+       https://zmiclab.github.io/zxh/0/mscmrseg19/
 * Data structure:
   - trainA/trainAmask: bSSFP/T2 sample 6-45
   - testA/testAmask: bSSFP/T2 sample 1-5
